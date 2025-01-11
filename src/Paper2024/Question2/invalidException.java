@@ -1,4 +1,4 @@
-package Question2;
+package Paper2024.Question2;
 
 public class invalidException extends Exception {
     public invalidException(String message){

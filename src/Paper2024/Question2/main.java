@@ -1,4 +1,4 @@
-package Question2;
+package Paper2024.Question2;
 
 public class main {
     public static void main(String[] args) {

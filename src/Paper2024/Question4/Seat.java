@@ -1,4 +1,4 @@
-package Question4;
+package Paper2024.Question4;
 
 import java.util.Random;
 

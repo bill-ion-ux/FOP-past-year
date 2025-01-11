@@ -1,4 +1,4 @@
-package Question5;
+package Paper2024.Question5;
 
 import java.io.*;
 
