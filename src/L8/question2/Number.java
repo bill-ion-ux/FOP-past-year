@@ -1,4 +1,4 @@
-package L8;
+package L8.question2;
 import java.util.*;
 
 public class Number {

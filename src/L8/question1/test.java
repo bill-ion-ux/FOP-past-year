@@ -1,6 +1,8 @@
-package L8;
+package L8.question1;
 
-public class mian {
+import L8.question2.Number;
+
+public class test {
     public static void main(String[] args) {
         Number a = new Number();
         Number b = new Number(4);
