@@ -28,10 +28,10 @@ public class Question3 {
 
                     }
                 } else {
-                    count++; // if split didnt occur increment the count
+                    count++; // if split didn't occur increment the count
                 }
             }
-            if(count == Genome.length){ // no split occured
+            if(count == Genome.length){ // no split occur
                 System.out.println("No gene found");
             }
             count = 0; // reset the count
