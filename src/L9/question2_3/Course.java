@@ -1,4 +1,4 @@
-package L9.question2;
+package L9.question2_3;
 
 public class Course {
     String courseName;

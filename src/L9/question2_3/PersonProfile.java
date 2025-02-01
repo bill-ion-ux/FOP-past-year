@@ -1,7 +1,9 @@
-package L9.question2;
+package L9.question2_3;
 
 public class PersonProfile {
-    private String gender, name,dateOfBirth;
+    private final String gender;
+    private final String name;
+    private final String dateOfBirth;
     public PersonProfile(String name , String gender, String dateOfBirth){
         this.name = name;
         this.gender = gender;
